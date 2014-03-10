@@ -1,1 +1,3 @@
 I liked the introduction to Github's capabilities
+
+I liked how you can merge changes made by different people
